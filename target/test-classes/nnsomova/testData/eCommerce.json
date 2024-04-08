@@ -1,0 +1,4 @@
+[
+  { "name": "Jane Doe", "gender": "female", "country": "Canada" },
+  { "name": "John Doe", "gender": "male", "country": "Argentina" }
+]
